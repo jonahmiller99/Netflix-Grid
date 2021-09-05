@@ -1,11 +1,11 @@
 # To Run This App use following commands
 
-CD server
-node server.js
+CD server. 
+node server.js. 
 
-~ In new terminal ~
+~ In new terminal ~. 
 
-CD client 
-npm start
+CD client.    
+npm start. 
 
 
