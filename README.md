@@ -1,5 +1,3 @@
-# Netflix-Grid'
-
 # To Run This App use following commands
 
 CD server
