@@ -1,9 +1,6 @@
 # Netflix-Grid'
 
-To Run This App
-
-
-USE FOLLOWING COMMANDS
+# To Run This App use following commands
 
 CD server
 node server.js
